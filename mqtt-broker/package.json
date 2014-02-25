@@ -1,0 +1,26 @@
+{
+    "name": "mqtt-broker",
+    "version": "0.0.1",
+    "description": "A sample mqtt-broker",
+    "main": "server.js",
+    "dependencies": {
+        "mqtt": "*"
+    },
+    "scripts": {
+        "test": "node server",
+        "start": "node server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/davidverme/nodejs-samples.git/mqtt-broker"
+    },
+    "keywords": [
+        "mqtt",
+        "broker"
+    ],
+    "author": "Walter David Verme",
+    "bugs": {
+        "url": "https://github.com/davidverme/nodejs-samples/issues"
+    },
+    "homepage": "https://github.com/davidverme/nodejs-samples.git/mqtt-broker"
+}
