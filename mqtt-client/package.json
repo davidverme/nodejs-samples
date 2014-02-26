@@ -1,0 +1,26 @@
+{
+    "name": "mqtt-client",
+    "version": "0.0.1",
+    "description": "A sample mqtt-client",
+    "main": "client.js",
+    "dependencies": {
+        "mqtt": "*"
+    },
+    "scripts": {
+        "test": "node client",
+        "start": "node client"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/davidverme/nodejs-samples/tree/master/mqtt-client"
+    },
+    "keywords": [
+        "mqtt",
+        "client"
+    ],
+    "author": "Walter David Verme",
+    "bugs": {
+        "url": "https://github.com/davidverme/nodejs-samples/issues"
+    },
+    "homepage": "https://github.com/davidverme/nodejs-samples/tree/master/mqtt-client"
+}

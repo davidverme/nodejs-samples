@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/davidverme/nodejs-samples.git/mqtt-broker"
+        "url": "https://github.com/davidverme/nodejs-samples/tree/master/mqtt-broker"
     },
     "keywords": [
         "mqtt",
@@ -22,5 +22,5 @@
     "bugs": {
         "url": "https://github.com/davidverme/nodejs-samples/issues"
     },
-    "homepage": "https://github.com/davidverme/nodejs-samples.git/mqtt-broker"
+    "homepage": "https://github.com/davidverme/nodejs-samples/tree/master/mqtt-broker"
 }
